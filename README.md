@@ -24,6 +24,6 @@ NO VIDEO ON YOUTUBE CURRENTLY
 ## Building toward CSTA Standards:
 
 ## Resources
-- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator
+- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/default-interface-methods
 
 Copyright &copy; 2025 Knight Moves. All Rights Reserved.
